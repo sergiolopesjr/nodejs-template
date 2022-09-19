@@ -1,6 +1,6 @@
 # Linhas de Comandos e Trechos de Código
 
-> Os trechos de código estão atualizados nos arquivos do template, disponíveis em: https://github.com/FabricaDeSinapse/fabrica-sinapse-nodejs-template
+> Os trechos de código estão atualizados nos arquivos do template, disponíveis em: https://github.com/FabricaDeSinapse/fabrica-sinapse-nodejs-template. Você pode ver o vídeo explicativo em https://www.youtube.com/watch?v=M8Do-clpQxI
 
 
 
